@@ -20,7 +20,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Work experience
+Projects
 ======
 * Jul 2023 - Present: Research on Multimodal Human-AI Interaction Using Synesthetic Art Creation Process
   * MARG, Seoul National University
@@ -33,6 +33,15 @@ Work experience
 * Sep 2022 - Feb 2023 2015: Brain Cognitive Modeling (BabyMind)
   * MARG, Seoul National University
   * Development of AI for recognizing and approaching objects based on vision information in a virtual space
+
+Scholarship & Awards
+======
+* Jul 2023 - Present: AI Fellowship (Full Scholarship)
+  * Seoul National University
+
+* Feb 2022: Excellence Award
+  * Yonsei University
+
 
 Patents
 ======
