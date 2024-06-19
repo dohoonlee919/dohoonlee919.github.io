@@ -39,9 +39,8 @@ Scholarship & Awards
 * Jul 2023 - Present: AI Fellowship (Full Scholarship)
   * Seoul National University
 
-* Feb 2022: Excellence Award
+* Feb 2023: Excellence Award
   * Yonsei University
-
 
 Patents
 ======
