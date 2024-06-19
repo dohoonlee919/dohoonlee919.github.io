@@ -11,54 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* M.S. in Interdisciplinary Program in Artificial Intelligence, Seounl National University, Sep 2022 - Present
+* B.S. in Electrical & Electronic Engineering, Yonsei University, Marc 2018 - Sep 2022
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Work experience
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Jul 2023 - Present: Research on Multimodal Human-AI Interaction Using Synesthetic Art Creation Process
+  * MARG, Seoul National University
+  * Defining art as an engineering optimization problem and developing a framework to solve it
+
+* Mar 2022 - Present: AI Producer: Development of Customized Music Creation Technology
+  * MARG, Seoul National University
+  * Development of AI for extracting musical instrument embeddings for automatic composition programs
+
+* Sep 2022 - Feb 2023 2015: Brain Cognitive Modeling (BabyMind)
+  * MARG, Seoul National University
+  * Development of AI for recognizing and approaching objects based on vision information in a virtual space
+
+Patents
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Sep 2017: Energy Saving System and Method for Operating Elevator
+  * Status: Granted
+  * An elevator operating system includes a call unit to generate call signals from each floor and a suggestion unit to advise users to use stairs when multiple calls are made from different floors.
+
+* Aug 2021: Team Project Data Storage and Analysis System
+  * Status: Filed
+  * The invention is a team project data storage and analysis system that allows team members to input, share, and systematically organize project information in an online or offline database, facilitating easy access and review post-completion.
