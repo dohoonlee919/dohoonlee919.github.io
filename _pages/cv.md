@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -50,4 +50,4 @@ Patents
 
 * Aug 2021: Team Project Data Storage and Analysis System
   * Status: Filed
-  * The invention is a team project data storage and analysis system that allows team members to input, share, and systematically organize project information in an online or offline database, facilitating easy access and review post-completion.
+  * The invention is a team project data storage and analysis system that allows team members to input, share, and systematically organize project information in an online or offline database, facilitating easy access and review post-completion. -->
