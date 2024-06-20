@@ -42,14 +42,13 @@ Scholarship & Awards
 
 Patents
 ======
-* Sep 2017: Energy Saving System and Method for Operating Elevator
-  * Status: Granted
-  * An elevator operating system includes a call unit to generate call signals from each floor and a suggestion unit to advise users to use stairs when multiple calls are made from different floors.
-
 * Aug 2021: Team Project Data Storage and Analysis System
   * Status: Filed
   * The invention is a team project data storage and analysis system that allows team members to input, share, and systematically organize project information in an online or offline database, facilitating easy access and review post-completion.
 
+* Sep 2017: Energy Saving System and Method for Operating Elevator
+  * Status: Granted
+  * An elevator operating system includes a call unit to generate call signals from each floor and a suggestion unit to advise users to use stairs when multiple calls are made from different floors.
 <!-- My name is Dohoon Lee, and I’m a graduate student at MARG, Seoul National University, with a Bachelor’s degree in Electrical & Electronics Engineering from Yonsei University.
 
 My research interests focus on transportation problems, particularly path optimization for differential equation-based generative models. I am also passionate about autonomous machine intelligence, exploring how machines can reason and plan using only visual data.
