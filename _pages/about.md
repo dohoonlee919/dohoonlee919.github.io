@@ -9,8 +9,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Interdisciplinary Program in Artificial Intelligence, Seounl National University, Sep 2022 - Present
-* B.S. in Electrical & Electronic Engineering, Yonsei University, Marc 2018 - Sep 2022
+* M.S. in Artificial Intelligence, Seoul National University, Sep 2022 - Present
+* B.S. in Electrical & Electronic Engineering, Yonsei University, Mar 2018 - Sep 2022
 
 Publications
 ======
