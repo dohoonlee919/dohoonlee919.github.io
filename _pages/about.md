@@ -49,12 +49,3 @@ Patents
 * Sep 2017: Energy Saving System and Method for Operating Elevator
   * Status: Granted
   * An elevator operating system includes a call unit to generate call signals from each floor and a suggestion unit to advise users to use stairs when multiple calls are made from different floors.
-<!-- My name is Dohoon Lee, and I’m a graduate student at MARG, Seoul National University, with a Bachelor’s degree in Electrical & Electronics Engineering from Yonsei University.
-
-My research interests focus on transportation problems, particularly path optimization for differential equation-based generative models. I am also passionate about autonomous machine intelligence, exploring how machines can reason and plan using only visual data.
-
-Beyond academia, I have a keen interest in existentialism and continually seek answers to profound questions.
-
-In my spare time, I produce House, EDM, and Hip-Hop music. Feel free to check out my SoundCloud link on the left!
-
-Always open to collaborating. Feel free to contact me! -->
