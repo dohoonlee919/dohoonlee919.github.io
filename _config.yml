@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "citations?hl=en&user=9g3HgFEAAAAJ"
+  googlescholar    : "https://scholar.google.co.kr/citations?hl=ko&user=9g3HgFEAAAAJ"
 
   # Repositories and software development
   github           : "dohoonlee919"
