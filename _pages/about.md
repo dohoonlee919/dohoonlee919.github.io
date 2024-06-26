@@ -88,7 +88,8 @@ Additional Skills
   * Python (Pytorch, Numpy & Pandas, Librosa, etc), R, MATLAB, git & docker
 
 * Language
-  * Korean: Native | English: Conversational
+  * Korean: Native
+  * English: Conversational
 
 * Interests
   * Professional Electronic Music Producer & DJ
