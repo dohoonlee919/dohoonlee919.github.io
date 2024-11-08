@@ -13,7 +13,7 @@ Education
 * B.S. in Electrical & Electronic Engineering, Yonsei University (Mar. 2018 - Sep. 2022)
 
 
-Publications in Progress
+Papers
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
