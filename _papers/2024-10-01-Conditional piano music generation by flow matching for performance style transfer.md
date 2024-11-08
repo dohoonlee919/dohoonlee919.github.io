@@ -4,7 +4,8 @@ collection: papers
 permalink: /papers/2024-10-01-paper-title-number-2
 excerpt: 'We introduce a flow matching model to generate style-conditioned piano performances, effectively transferring distinct expressive styles using audio data from specific pianists.'
 date: 2024-10-01
-venue: 'ISMIR 2024 LBD'
+status: 'ISMIR 2024 LBD'
+# venue: 'ISMIR 2024 LBD'
 # paperurl: 'https://arxiv.org/pdf/2404.14161v2'
 ---
 

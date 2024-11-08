@@ -4,7 +4,8 @@ collection: papers
 permalink: /papers/2024-09-26-paper-title-number-3
 excerpt: 'The framework addresses blind forward and inverse problems by using a reference encoder to approximate the nonlinear forward operator in a diffusion model, combined with twisted particle filtering for enhanced signal reconstruction.'
 date: 2024-9-26
-venue: 'Under review for ICLR 2025'
+status: 'Under review for ICLR 2025'
+# venue: 'Under review for ICLR 2025'
 paperurl: 'https://openreview.net/forum?id=mlPTNEIsgb'
 ---
 
