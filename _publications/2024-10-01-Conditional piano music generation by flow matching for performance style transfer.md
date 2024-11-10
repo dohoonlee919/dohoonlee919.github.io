@@ -5,10 +5,8 @@ permalink: /papers/2024-10-01-paper-title-number-2
 excerpt: 'We introduce a flow matching model to generate style-conditioned piano performances, effectively transferring distinct expressive styles using audio data from specific pianists.'
 # date: 2024-10-01
 # status: 'ISMIR 2024 LBD'
-# venue: 'ISMIR 2024 LBD'
+venue: 'ISMIR 2024 LBD'
 ---
-
-ISMIR 2024 LBD
 
 This study explores the generation of classical piano performances conditioned on individual performers' expressive styles. 
 The interpretative diversity in classical music naturally results in comparisons and preferences for different interpretations of the same piece, fostering a desire to explore performances in varied styles.
