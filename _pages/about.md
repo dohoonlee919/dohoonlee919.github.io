@@ -7,6 +7,15 @@ redirect_from:
   - /about.html
 ---
 
+Introduction
+======
+I am Dohun Lee, a graduate of Electrical and Electronic Engineering from Yonsei University, currently completing a master’s in Artificial Intelligence at Seoul National University. Starting in December, I will undertake an 18-month mandatory military service, where I’ll be involved in military science and technology research. I view life as an optimization problem, continuously exploring uncharted territories to reach a global optimum.
+
+Throughout my studies, I have focused on generative modeling based on Flow and Diffusion processes. My main research during my master’s has been on a problem I introduced called “Multidimensional Trajectory Optimization” (MTO). This novel optimization approach utilizes adaptive multidimensional coefficients, allowing each data dimension its own time scheduling. Unlike traditional models that aim for straight trajectories, MTO discovers flexible, optimal paths that significantly enhance the quality and efficiency of generated samples. Currently, my MTO work is under review for ICLR 2025, having achieved state-of-the-art performance with NFE=5 in CIFAR-10 conditional generation.
+
+Looking forward, MTO opens up many avenues for further research. I am interested in exploring theoretical relationships with Latent Diffusion Models, framing MTO as a planning problem via control theory, and drastically improving computational trade-offs in large-scale data generation. Additionally, I aspire to develop next-generation vision-based models that understand the world at a foundational level. Unlike language models that represent outputs as discrete tokens, I believe in leveraging vision-based latent-space simulations, akin to video generation tasks, to create physical world simulations that transcend the limitations of current language-based outputs.
+
+
 Education
 ======
 * M.S. in Artificial Intelligence, Seoul National University (Sep. 2022 -)
