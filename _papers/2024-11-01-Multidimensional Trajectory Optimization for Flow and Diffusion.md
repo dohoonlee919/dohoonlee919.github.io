@@ -3,8 +3,8 @@ title: "Multidimensional Trajectory Optimization for Flow and Diffusion"
 collection: papers
 permalink: /papers/2024-9-20-paper-title-number-1
 excerpt: 'We introduce Multidimensional Coefficient and Multidimensional Trajectory Optimization within the flow and diffusion framework, achieving state-of-the-art results in CIFAR-10 conditional generation.'
-date: 2024-9-20
-status: 'Under review for ICLR 2025'
+# date: 2024-9-20
+# status: 'Under review for ICLR 2025'
 # venue: 'Under review for ICLR 2025'
 paperurl: 'https://openreview.net/pdf?id=oHbmiaeyUL'
 ---

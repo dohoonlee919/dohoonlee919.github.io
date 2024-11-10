@@ -3,7 +3,7 @@ title: "Personalized Preference Optimization for Text-to-Image Generation using 
 collection: papers
 permalink: /papers/2010-10-01-paper-title-number-4
 excerpt: 'Developed a framework for optimizing personal preferences through in-context learning, utilizing the PIAA method, introducing multi-prompt optimization, integrating comprehensive feedback, and demonstrating training-free, real-world applications.'
-date: 2024-6-16
+# date: 2024-6-16
 status: Arxiv
 # venue: 'Under review'
 paperurl: 'https://openreview.net/forum?id=4VzHv5s0Hp'
