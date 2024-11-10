@@ -1,7 +1,7 @@
 ---
 title: "Personalized Preference Optimization for Text-to-Image Generation using Large Language Models"
 collection: papers
-permalink: /papers/2010-10-01-paper-title-number-4
+permalink: /papers/2024-6-16-paper-title-number-4
 excerpt: 'Developed a framework for optimizing personal preferences through in-context learning, utilizing the PIAA method, introducing multi-prompt optimization, integrating comprehensive feedback, and demonstrating training-free, real-world applications.'
 # date: 2024-6-16
 status: Arxiv

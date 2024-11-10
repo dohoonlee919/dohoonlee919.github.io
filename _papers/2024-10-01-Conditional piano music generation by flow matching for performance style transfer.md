@@ -3,10 +3,9 @@ title: "Conditional piano music generation by flow matching for performance styl
 collection: papers
 permalink: /papers/2024-10-01-paper-title-number-2
 excerpt: 'We introduce a flow matching model to generate style-conditioned piano performances, effectively transferring distinct expressive styles using audio data from specific pianists.'
-date: 2024-10-01
-status: 'ISMIR 2024 LBD'
+# date: 2024-10-01
+# status: 'ISMIR 2024 LBD'
 # venue: 'ISMIR 2024 LBD'
-# paperurl: 'https://arxiv.org/pdf/2404.14161v2'
 ---
 
 This study explores the generation of classical piano performances conditioned on individual performers' expressive styles. 
