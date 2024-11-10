@@ -9,6 +9,8 @@ redirect_from:
 
 Introduction
 ======
+I am actively seeking a Ph.D. position to research generative models, diffusion processes, and next-generation AI architectures
+
 I am Dohoon Lee, a graduate of Electrical and Electronic Engineering from Yonsei University, currently completing a master’s in Artificial Intelligence at Seoul National University. Starting in December, I will undertake an 18-month mandatory military service, where I’ll be involved in military science and technology research. I view life as an optimization problem, continuously exploring uncharted territories to reach a global optimum.
 
 Throughout my studies, I have focused on generative modeling based on Flow and Diffusion processes. My main research during my master’s has been on a problem I introduced called “Multidimensional Trajectory Optimization” (MTO). This novel optimization approach utilizes adaptive multidimensional coefficients, allowing each data dimension its own time scheduling. Unlike traditional models that aim for straight trajectories, MTO discovers flexible, optimal paths that significantly enhance the quality and efficiency of generated samples. Currently, my MTO work is under review for ICLR 2025, having achieved state-of-the-art performance (FID=1.37) with NFE=5 in CIFAR-10 conditional generation.
